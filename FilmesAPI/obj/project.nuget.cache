@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcFXtwSozGlQgf3ry13y8O5vYs4luuMIL3BudADPYo4eHOqXahkflISilfHDo1SCWMrK8p6p8y/XpDr/gGDARw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\pedro.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
