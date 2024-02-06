@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilmesAPI</name>
+    </assembly>
+    <members>
+        <member name="T:FilmesAPI.Controllers.FilmeController">
+            <summary>
+            Controller responsável por gerenciar os filmes
+            </summary>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.#ctor(FilmesAPI.Data.FilmeContext,AutoMapper.IMapper)">
+            <summary>
+            Construtor da classe FilmeController
+            </summary>
+            <param name="context"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AdicionaFilme(FilmesAPI.Data.Dtos.CreateFilmeDto)">
+            <summary>
+            Adiciona um filme ao banco de dados
+            </summary>
+            <param name="filmeDto"> Objeto com os campos necessários para a criação de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="201">Retorna o filme recém-criado com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperaFilmes(System.Int32,System.Int32)">
+            <summary>
+            Recupera uma lista de filmes
+            </summary>
+            <param name="skip">Quantidade de filmes a serem pulados</param>
+            <param name="take">Quantidade de filmes a serem retornados</param>
+            <returns>Uma lista de filmes</returns>
+            <response code="200">Retorna a lista de filmes com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperaFilmeId(System.Int32)">
+            <summary>
+            Recupera um filme pelo id
+            </summary>
+            <param name="id"></param>
+            <returns>único filme</returns>
+            <response code="200">Retorna o filme com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaFilme(System.Int32,FilmesAPI.Data.Dtos.UpdateFilmeDto)">
+            <summary>
+            Atualiza um filme
+            </summary>
+            <param name="id"></param>
+            <param name="filmeDto"></param>
+            <returns></returns>
+            <response code="204">Retorna o filme atualizado com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaParcialFilme(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.Data.Dtos.UpdateFilmeDto})">
+            <summary>
+            Atualiza parcialmente um filme
+            </summary>
+            <param name="id"></param>
+            <param name="path"></param>
+            <returns>Atualiza parcialmente um filme e não é necessário enviar todos os campos</returns>
+            <response code="204">Retorna o filme atualizado com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.DeletaFilme(System.Int32)">
+            <summary>
+            Deleta um filme
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="204">Retorna o filme deletado com sucesso</response>
+        </member>
+    </members>
+</doc>

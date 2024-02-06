@@ -47,3 +47,5 @@ C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Fr
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
