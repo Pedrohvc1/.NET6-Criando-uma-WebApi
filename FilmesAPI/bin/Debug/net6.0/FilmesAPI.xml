@@ -9,13 +9,6 @@
             Controller responsável por gerenciar os filmes
             </summary>
         </member>
-        <member name="M:FilmesAPI.Controllers.FilmeController.#ctor(FilmesAPI.Data.FilmeContext,AutoMapper.IMapper)">
-            <summary>
-            Construtor da classe FilmeController
-            </summary>
-            <param name="context"></param>
-            <param name="mapper"></param>
-        </member>
         <member name="M:FilmesAPI.Controllers.FilmeController.AdicionaFilme(FilmesAPI.Data.Dtos.CreateFilmeDto)">
             <summary>
             Adiciona um filme ao banco de dados
