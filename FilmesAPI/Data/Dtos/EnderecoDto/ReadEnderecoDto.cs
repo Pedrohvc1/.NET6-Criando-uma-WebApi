@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace FilmesAPI.Data.Dtos;
+namespace FilmesAPI.Data.Dtos.EnderecoDto;
 
 public class ReadEnderecoDto
 {

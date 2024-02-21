@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace FilmesAPI.Data.Dtos;
+namespace FilmesAPI.Data.Dtos.FilmeDto;
 
 public class CreateFilmeDto
-{ 
+{
     [Required(ErrorMessage = "O título do filme é obrigatório")]
     public string Titulo { get; set; }
 

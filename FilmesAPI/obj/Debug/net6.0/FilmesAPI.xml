@@ -9,7 +9,7 @@
             Controller responsável por gerenciar os filmes
             </summary>
         </member>
-        <member name="M:FilmesAPI.Controllers.FilmeController.AdicionaFilme(FilmesAPI.Data.Dtos.CreateFilmeDto)">
+        <member name="M:FilmesAPI.Controllers.FilmeController.AdicionaFilme(FilmesAPI.Data.Dtos.FilmeDto.CreateFilmeDto)">
             <summary>
             Adiciona um filme ao banco de dados
             </summary>
@@ -34,7 +34,7 @@
             <returns>único filme</returns>
             <response code="200">Retorna o filme com sucesso</response>
         </member>
-        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaFilme(System.Int32,FilmesAPI.Data.Dtos.UpdateFilmeDto)">
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaFilme(System.Int32,FilmesAPI.Data.Dtos.FilmeDto.UpdateFilmeDto)">
             <summary>
             Atualiza um filme
             </summary>
@@ -43,7 +43,7 @@
             <returns></returns>
             <response code="204">Retorna o filme atualizado com sucesso</response>
         </member>
-        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaParcialFilme(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.Data.Dtos.UpdateFilmeDto})">
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaParcialFilme(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.Data.Dtos.FilmeDto.UpdateFilmeDto})">
             <summary>
             Atualiza parcialmente um filme
             </summary>
