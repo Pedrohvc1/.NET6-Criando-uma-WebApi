@@ -1,0 +1,26 @@
+
+s
+*.log 
+# Ignorar arquivos específicos
+appsettings.Development.json
+appsettings.Production.json
+.vs/FilmesAPI/FileContentIndex/5269b62e-664f-4d8a-9bf0-263a63f68ce3.vsidx
+.vs/FilmesAPI/DesignTimeBuild/.dtbcache.v2
+FilmesAPI/obj/Debug/net6.0/refint/FilmesAPI.dll
+FilmesAPI/obj/Debug/net6.0/ref/FilmesAPI.dll
+FilmesAPI/obj/Debug/net6.0/FilmesAPI.pdb
+FilmesAPI/obj/Debug/net6.0/FilmesAPI.dll
+FilmesAPI/obj/Debug/net6.0/apphost.exe
+FilmesAPI/bin/Debug/net6.0/FilmesAPI.pdb
+FilmesAPI/bin/Debug/net6.0/FilmesAPI.dll
+.vs/ProjectEvaluation/filmesapi.projects.v7.bin
+.vs/ProjectEvaluation/filmesapi.metadata.v7.bin
+.vs/FilmesAPI/v17/.suo
+.vs/FilmesAPI/v17/.futdcache.v2
+.vs/FilmesAPI/FileContentIndex/f60d6cc9-f210-4ed1-a81c-c7b18b18a19b.vsidx
+.vs/FilmesAPI/FileContentIndex/cd8e376e-2618-489c-a0c7-46162bcfd2b0.vsidx
+.vs/FilmesAPI/FileContentIndex/bfc3a0cd-9585-4fc4-b900-b76b04a0e7d1.vsidx
+.vs/FilmesAPI/FileContentIndex/bd5f9ce4-5e6c-4845-9c91-1f7fd9aa935f.vsidx
+.vs/FilmesAPI/FileContentIndex/a4272094-b295-4e99-91c2-d9dde66181d3.vsidx
+
+.vs/

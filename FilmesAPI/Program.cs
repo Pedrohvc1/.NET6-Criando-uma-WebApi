@@ -6,7 +6,7 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("FilmeConnection");
-builder.Services.AddDbContext<FilmeContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+builder.Services.AddDbContext<FilmeContext>(options => options.UseLazyLoadingProxies().UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 // GetConnectionString é um método que retorna a string de conexão com o banco de dados
 // AddDbContext é um método que adiciona um contexto de banco de dados ao contêiner de serviços com um escopo de vida de serviço
 // UseMySql é um método que adiciona um provedor de banco de dados MySQL ao Entity Framework Core

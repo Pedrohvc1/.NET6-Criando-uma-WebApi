@@ -1,5 +1,5 @@
 using AutoMapper;
-using FilmesAPI.Data.Dtos.CinemaDto;
+using FilmesAPI.Data.Dtos.EnderecoDto;
 using FilmesAPI.Models;
 
 namespace FilmesAPI.Profiles;
@@ -8,8 +8,8 @@ public class EnderecoProfile : Profile
 {
     public EnderecoProfile()
     {
-        CreateMap<CreateCinemaDto, Endereco>();
-        CreateMap<Endereco, ReadCinemaDto>();
-        CreateMap<UpdateCinemaDto, Endereco>();
+        CreateMap<CreateEnderecoDto, Endereco>();
+        CreateMap<Endereco, ReadEnderecoDto>();
+        CreateMap<UpdateEnderecoDto, Endereco>();
     }
 }
