@@ -11,6 +11,8 @@ public class FilmeProfile : Profile
         CreateMap<CreateFilmeDto, Filme>();
         CreateMap<UpdateFilmeDto, Filme>();
         CreateMap<Filme, UpdateFilmeDto>();
-        CreateMap<Filme, ReadFilmeDto>();
+        CreateMap<Filme, ReadFilmeDto>()
+            .ForMember(FilmeDto => FilmeDto.Sessoes,
+                       opt => opt.MapFrom(filme => filme.Sessoes));
     }
 }

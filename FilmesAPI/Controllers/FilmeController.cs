@@ -56,7 +56,7 @@ public class FilmeController : ControllerBase
     // FromQuery é um atributo que indica que os parâmetros da ação devem ser obtidos da string de consulta da solicitação
     {
         // return _context.Filmes.Skip(skip).Take(take);
-        return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take)); // a mudança foi feita para mapear a lista de filmes para uma lista de ReadFilmeDto
+        return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take).ToList()); // a mudança foi feita para mapear a lista de filmes para uma lista de ReadFilmeDto
     }
 
     /// <summary>

@@ -11,4 +11,5 @@ public class Cinema
     public string Nome { get; set; }
     public int EnderecoId { get; set; }
     public virtual Endereco Endereco { get; set; } // 1 para 1
+    public virtual ICollection<Sessao> Sessoes { get; set; }
 }

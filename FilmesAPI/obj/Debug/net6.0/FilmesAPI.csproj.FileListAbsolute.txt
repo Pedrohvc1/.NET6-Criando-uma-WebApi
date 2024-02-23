@@ -89,11 +89,11 @@ C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Fr
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\global.json
+C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.sourcelink.json
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
 C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
-C:\Dev\Studies\ALURA\.NET\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
