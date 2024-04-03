@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUbTjio/zRF6HfbM5wOcfbi4kKzlGvqj7gP84cSl/GoFPp60DXg3lHUCEbW94pX94wBg2VKN2rXIHRmAJQdNiQ==",
+  "dgSpecHash": "jUX54mDmzo5b4kmGiVA3oscLaRdi3QOAarH1ixrPZd3IPd2Zm/aDPeBCpyVNIMjPE0OXxkvmfUH2XlekUYjS7w==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "C:\\Dev\\Studies\\ALURA\\.NET\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro.vieira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro.vieira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
