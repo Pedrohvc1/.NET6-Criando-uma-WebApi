@@ -6691,11 +6691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectUniqueName": "C:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
       "projectName": "FilmesAPI",
-      "projectPath": "c:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectPath": "C:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
       "packagesPath": "C:\\Users\\pedro.vieira\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\obj\\",
+      "outputPath": "C:\\Dev\\Studies\\ALURA\\.NET\\ASP.Net Core crie aplicações com C#, .NET, Entity Framework e LINQ\\FilmesAPI\\FilmesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
